@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 408fdae6fef54145a8108238bd75f32b, type: 3}
+  m_Name: ColorsMultiplicities
+  m_EditorClassIdentifier: 
+  Multiplicities:
+  - Multiplicities: 03000000
+    Colour: {r: 1, g: 0.9424448, b: 0, a: 1}
+  - Multiplicities: 05000000
+    Colour: {r: 0.029222097, g: 0.9528302, b: 0, a: 1}
+  - Multiplicities: 0300000005000000
+    Colour: {r: 0.9529412, g: 0.053155087, b: 0, a: 1}
+  Default: {r: 1, g: 1, b: 1, a: 1}

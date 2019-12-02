@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DesperateDevs" t="Include">
+          <e p="Compile.cs" t="Include" />
+        </e>
+        <e p="Entitas" t="Include">
+          <e p="Entitas.xml" t="Include" />
+        </e>
+        <e p="GameController.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Components" t="Include">
+            <e p="ColorComponent.cs" t="Include" />
+            <e p="DirectionComponent.cs" t="Include" />
+            <e p="MouseComponents.cs" t="Include" />
+            <e p="MoveComponent.cs" t="Include" />
+            <e p="MoverComponent.cs" t="Include" />
+            <e p="PositionComponent.cs" t="Include" />
+            <e p="SpriteComponent.cs" t="Include" />
+            <e p="ViewComponent.cs" t="Include" />
+          </e>
+          <e p="Features" t="Include">
+            <e p="InputSystems.cs" t="Include" />
+            <e p="MovementSystems.cs" t="Include" />
+            <e p="ViewSystems.cs" t="Include" />
+          </e>
+          <e p="Generated" t="Include">
+            <e p="Contexts.cs" t="Include" />
+            <e p="Feature.cs" t="Include" />
+            <e p="Game" t="Include">
+              <e p="Components" t="Include">
+                <e p="GameColorComponent.cs" t="Include" />
+                <e p="GameDirectionComponent.cs" t="Include" />
+                <e p="GameMoveComponent.cs" t="Include" />
+                <e p="GameMoverComponent.cs" t="Include" />
+                <e p="GamePositionComponent.cs" t="Include" />
+                <e p="GameSpriteComponent.cs" t="Include" />
+                <e p="GameViewComponent.cs" t="Include" />
+              </e>
+              <e p="GameAttribute.cs" t="Include" />
+              <e p="GameComponentsLookup.cs" t="Include" />
+              <e p="GameContext.cs" t="Include" />
+              <e p="GameEntity.cs" t="Include" />
+              <e p="GameMatcher.cs" t="Include" />
+            </e>
+            <e p="Input" t="Include">
+              <e p="Components" t="Include">
+                <e p="InputLeftMouseComponent.cs" t="Include" />
+                <e p="InputMouseDownComponent.cs" t="Include" />
+                <e p="InputMousePositionComponent.cs" t="Include" />
+              </e>
+              <e p="InputAttribute.cs" t="Include" />
+              <e p="InputComponentsLookup.cs" t="Include" />
+              <e p="InputContext.cs" t="Include" />
+              <e p="InputEntity.cs" t="Include" />
+              <e p="InputMatcher.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ScriptableObjects" t="Include">
+            <e p="Colors.cs" t="Include" />
+          </e>
+          <e p="Systems" t="Include">
+            <e p="AddViewSystem.cs" t="Include" />
+            <e p="ColorSystem.cs" t="Include" />
+            <e p="CommandMoveSystem.cs" t="Include" />
+            <e p="EmitInputSystem.cs" t="Include" />
+            <e p="MoveStateSystem.cs" t="Include" />
+            <e p="MoveSystem.cs" t="Include" />
+            <e p="RenderDirectionSystem.cs" t="Include" />
+            <e p="RenderPositionSystem.cs" t="Include" />
+            <e p="RenderSpriteSystem.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Third-Party Notices.txt" t="Include" />
+      </e>
+      <e p="ClearEntitas-master.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_ClearEntitas-master.397205101.00" t="ExcludeRecursive" />
+  </component>
+</project>
